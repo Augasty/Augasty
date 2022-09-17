@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Augasty
-- 👀 I’m interested in web dev
+- 👀 I’m interested in web dev and data analytics.
 - 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on javascript related projects
 - 📫 How to reach me ssgsayak@gmail.com
